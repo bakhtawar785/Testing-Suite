@@ -39,5 +39,5 @@ Few screenshots are included in the screenshots folder for reference.
 
 ## Author
 
-Bakhtawar Pirzada 
-QA Intern  
+- Bakhtawar Pirzada 
+- QA Intern  
