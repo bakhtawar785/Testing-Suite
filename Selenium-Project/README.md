@@ -2,9 +2,8 @@
 
 This project is a Selenium automation test for Daraz.pk, focusing on product search, filtering, and validation. It is developed using Java, TestNG, and the Page Object Model (POM) structure.
 
-========================================
-Technologies Used
-========================================
+
+# Technologies Used
 
 - Java
 - Selenium WebDriver
@@ -14,9 +13,7 @@ Technologies Used
 - Maven
 
 
-========================================
-How to Run
-========================================
+# How to Run
 
 1. Clone or download this project
 2. Open in your preferred IDE (IntelliJ)
@@ -24,25 +21,22 @@ How to Run
 4. Make sure ChromeDriver is added to your system path
 5. Run DarazTest.java as a TestNG test
 
-========================================
-Prerequisites
-========================================
+
+# Prerequisites
 
 - Java 
 - Selenium WebDriver
 - TestNG
 - ChromeDriver (compatible with your browser version)
 
-========================================
-Notes
-========================================
+
+# Notes
 
 - You may update wait times if Daraz loads slowly
 - Ensure stable internet connection for accurate element loading
 
-========================================
-Author
-========================================
+
+# Author
 
 - Bakhtawar Pirzada
 - QA Intern
