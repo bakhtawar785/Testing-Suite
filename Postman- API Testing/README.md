@@ -1,6 +1,6 @@
 # Postman API Testing Assignment – Simple Books API
 
-This repository contains my Postman assignment for API testing using the Simple Books API.
+This Folder contains my Postman assignment for API testing using the Simple Books API.
 
 ## API Used
 
@@ -8,8 +8,8 @@ URL: https://simple-books-api.glitch.me
 
 ## Contents
 
-- SimpleBooks.postman_collection.json – The Postman collection with all API requests and test scripts.
-- SimpleBooksEnvironment.postman_environment.json – Environment file.
+- Postman-API-Testing.postman_collection.json – The Postman collection with all API requests and test scripts.
+- postman-environment.postman_environment.json – Environment file.
 - screenshots – Folder containing screenshots.
 
 ## Features Tested
