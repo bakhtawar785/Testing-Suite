@@ -1,6 +1,6 @@
 # Selenium Automation Test – Daraz.pk
 
-This project is a Selenium automation test for Daraz.pk, focusing on product search, filtering, and validation. It is developed using Java, TestNG, and the Page Object Model (POM) structure.
+Selenium automation test for Daraz.pk, focusing on product search, filtering, and validation. It is developed using Java, TestNG, and the Page Object Model (POM) structure.
 
 
 # Technologies Used
@@ -39,5 +39,4 @@ This project is a Selenium automation test for Daraz.pk, focusing on product sea
 # Author
 
 - Bakhtawar Pirzada
-- QA Intern
 
