@@ -1,8 +1,8 @@
 ============================================================
-               Cypress Assignment – SauceDemo
+               Cypress - end-to-end tests
 ============================================================
 
-This project contains Cypress end-to-end tests for the SauceDemo website (https://www.saucedemo.com). The tests use the Page Object Model (POM) and custom Cypress command for reusability and better code structure.
+The tests use the Page Object Model (POM) and custom Cypress command for reusability and better code structure.
 
 ------------------------------------------------------------
 Tools & Technologies Used:
@@ -59,4 +59,3 @@ Notes:
 Author:
 ------------------------------------------------------------
 - Bakhtawar Pirzada
-- QA Intern  
