@@ -1,6 +1,6 @@
 # JMeter API Testing – Books API
 
-This project contains API testing for the Books API hosted at [node-express-api-books](https://github.com/AnuMI4/node-express-api-books) using Apache JMeter.
+contains API testing for the Books API hosted at [node-express-api-books](https://github.com/AnuMI4/node-express-api-books) using Apache JMeter.
 
 ## Project Overview
 
@@ -43,5 +43,4 @@ The following HTTP methods were tested:
 ## Author
 
 - Bakhtawar Pirzada
-- QA Intern
 
