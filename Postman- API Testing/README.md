@@ -1,10 +1,4 @@
-# Postman API Testing Assignment – Simple Books API
-
-This Folder contains my Postman assignment for API testing using the Simple Books API.
-
-## API Used
-
-URL: https://simple-books-api.glitch.me
+# Postman API Testing
 
 ## Contents
 
@@ -40,4 +34,3 @@ Few screenshots are included in the screenshots folder for reference.
 ## Author
 
 - Bakhtawar Pirzada 
-- QA Intern  
